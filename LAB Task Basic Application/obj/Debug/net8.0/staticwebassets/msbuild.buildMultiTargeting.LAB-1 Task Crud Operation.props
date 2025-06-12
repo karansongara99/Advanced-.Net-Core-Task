@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LAB-1 Task Crud Operation.props" />
+</Project>
