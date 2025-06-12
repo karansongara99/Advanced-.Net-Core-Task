@@ -1,0 +1,72 @@
+﻿@model DataTable
+@using System.Data
+
+<div class="pagetitle">
+    <h1>City Tables</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-action="Index" asp-controller="Home">Home</a></li>
+            <li class="breadcrumb-item">City</li>
+            <li class="breadcrumb-item active">City List</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card">
+                <div class="card-body">
+                <h5 class="card-title">City List</h5>
+                    <div class="d-flex p-3 justify-content-end">
+                        <a asp-action="CityAddEdit" asp-controller="City" class="btn btn-primary w-20">
+                            <i class="bi bi-plus"></i> Add City
+                        </a>
+                    </div>
+                    <!-- Table with stripped rows -->
+                    <table class="table datatable">
+                        <thead>
+                            <tr>
+                                <th>City ID</th>
+                                <th>State Name</th>
+                                <th>Country Name</th>
+                                <th>City Name</th>
+                                <th>CityCode</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (DataRow row in Model.Rows)
+                            {
+                                <tr>
+                                    <td>@row["CityID"]</td>
+                                    <td>@row["StateName"]</td>
+                                    <td>@row["CountryName"]</td>
+                                    <td>@row["CityName"]</td>
+                                    <td>@row["CityCode"]</td>
+                                    <td>
+                                        <a asp-controller="City" asp-action="CityAddEdit" asp-route-CityID="@row["CityID"]" class="btn btn-primary btn-sm"><i class="bi bi-pencil"></i></a>
+                                        <a asp-action="CityDelete" asp-route-CityID="@row["CityID"]" onclick="confirmDelete()" class="btn btn-danger btn-sm"><i class="bi bi-trash"></i></a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                    <!-- End Table with stripped rows -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section Scripts {
+    <script>
+        $(document).ready(function () {
+            $("#citySearch").on("keyup", function () {
+                var value = $(this).val().toLowerCase();
+                $("#cityTable tr").filter(function () {
+                    $(this).toggle($(this).text().toLowerCase().indexOf(value) > -1);
+                });
+            });
+        });
+    </script>
+}

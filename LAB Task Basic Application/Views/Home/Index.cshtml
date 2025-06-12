@@ -1,0 +1,157 @@
+﻿﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model List<LAB_1_Task_Crud_Operation.Models.CountryStateCountModel>
+
+<style>
+    .order-card {
+        color: #fff;
+    }
+
+    .bg-c-blue {
+        background: linear-gradient(45deg,#4099ff,#73b4ff);
+    }
+
+    .bg-c-green {
+        background: linear-gradient(45deg,#2ed8b6,#59e0c5);
+    }
+
+    .bg-c-yellow {
+        background: linear-gradient(45deg,#FFB64D,#ffcb80);
+    }
+
+    .bg-c-pink {
+        background: linear-gradient(45deg,#FF5370,#ff869a);
+    }
+
+
+    .card {
+        border-radius: 5px;
+        -webkit-box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+        box-shadow: 0 1px 2.94px 0.06px rgba(4,26,55,0.16);
+        border: none;
+        margin-bottom: 30px;
+        -webkit-transition: all 0.3s ease-in-out;
+        transition: all 0.3s ease-in-out;
+    }
+
+        .card .card-block {
+            padding: 25px;
+        }
+
+    .order-card i {
+        font-size: 26px;
+    }
+
+    .f-left {
+        float: left;
+    }
+
+    .f-right {
+        float: right;
+    }
+</style>
+
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+<div class="pagetitle">
+    <h1>Dashboard</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item">Home</li>
+            <li class="breadcrumb-item active">Dashboard</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<section class="section dashboard">
+    <div class="row">
+        <div class="container">
+            <div class="row">
+                <div class="d-flex p-3 justify-content-around">
+
+                        <div class="col-md-4 col-xl-3">
+                            <div class="card bg-c-green order-card">
+                                <div class="card-block">
+                                    <h6 class="m-b-20  text-dark">City</h6>
+                                    <h2 class="text-right"><i class="fa fa-building"></i></h2>
+                                <a asp-action="CityList" asp-controller="City"><p class="m-b-0  text-dark">Total City<span class="f-right">@TempData.Peek("CityCount")</span></p></a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-4 col-xl-3">
+                            <div class="card bg-c-pink order-card">
+                                <div class="card-block">
+                                    <h6 class="m-b-20  text-dark">State</h6>
+                                    <h2 class="text-right"><i class="fa fa-road"></i></h2>
+                                <a asp-action="CityList" asp-controller="City"><p class="m-b-0  text-dark">Total State<span class="f-right">@TempData.Peek("StateCount")</span></p></a>
+                                </div>
+                            </div>
+                        </div>
+
+
+                        <div class="col-md-4 col-xl-3"> 
+                             <div class="card bg-c-blue order-card"> 
+                                 <div class="card-block"> 
+                                    <h6 class="m-b-20  text-dark">Country</h6>
+                                    <h2 class="text-right"><i class="fa fa-globe"></i></h2>
+                                <a asp-action="CityList" asp-controller="City"><p class="m-b-0 text-dark">Total Country<span class="f-right">@TempData.Peek("CountryCount")</span></p></a>
+                            </div> 
+                            </div> 
+                         </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    <!-- Recently Table  -->
+
+    <div class="row">
+        <!-- First Card -->
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Recently Country Record</h5>
+                    <!-- Table with hoverable rows -->
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th scope="col">Country Name</th>
+                                <th scope="col">Total State</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.CountryName</td>
+                                    <td>@item.TotalState</td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">UseFull Links</h5>
+
+                    <!-- List group with Links and buttons -->
+                    <div class="list-group">
+                        <a asp-action="CityList" asp-controller="City" type="button" class="list-group-item list-group-item-action">City List</a>
+                        <a asp-action="CityList" asp-controller="City" class="list-group-item list-group-item-action">Profile Links</a>
+                        <a asp-action="CityList" asp-controller="City" class="list-group-item list-group-item-action">Privacy</a>
+                        <a asp-action="CityList" asp-controller="City" class="list-group-item list-group-item-action">Country List</a>
+                    </div><!-- End List group with Links and buttons -->
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- End #main -->
