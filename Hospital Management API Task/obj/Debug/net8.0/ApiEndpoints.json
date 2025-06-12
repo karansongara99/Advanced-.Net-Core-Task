@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "Hospital_Management_System.Controllers.HospitalAPIController",
+    "Method": "GetHospitalData",
+    "RelativePath": "api/HospitalAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hospital_Management_System.Controllers.HospitalAPIController",
+    "Method": "HospitalInsert",
+    "RelativePath": "api/HospitalAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hospital",
+        "Type": "Hospital_Management_System.Models.HospitalMaster",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hospital_Management_System.Controllers.HospitalAPIController",
+    "Method": "HospitalGetByID",
+    "RelativePath": "api/HospitalAPI/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hospital_Management_System.Controllers.HospitalAPIController",
+    "Method": "HospitalGetByIDDelete",
+    "RelativePath": "api/HospitalAPI/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Hospital_Management_System.Controllers.HospitalAPIController",
+    "Method": "UpdateHospitalData",
+    "RelativePath": "api/HospitalAPI/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hospital",
+        "Type": "Hospital_Management_System.Models.HospitalMaster",
+        "IsRequired": true
+      },
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
