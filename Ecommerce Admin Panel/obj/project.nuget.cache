@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wJLj0HNF1+k=",
+  "success": true,
+  "projectFilePath": "D:\\Programer\\BTech\\Sem-5\\Advanced .Net Core\\E-Commerce Admin Panel\\E-Commerce Admin Panel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\karan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E-Commerce Admin Panel.props" />
+</Project>

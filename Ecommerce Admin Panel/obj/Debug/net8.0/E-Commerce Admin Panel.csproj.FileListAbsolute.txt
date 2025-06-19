@@ -1,0 +1,34 @@
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\appsettings.Development.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\appsettings.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\E-Commerce Admin Panel.staticwebassets.runtime.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\E-Commerce Admin Panel.staticwebassets.endpoints.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\E-Commerce Admin Panel.exe
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\E-Commerce Admin Panel.deps.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\E-Commerce Admin Panel.runtimeconfig.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\E-Commerce Admin Panel.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\bin\Debug\net8.0\E-Commerce Admin Panel.pdb
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.AssemblyInfoInputs.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.AssemblyInfo.cs
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.MvcApplicationPartsAssemblyInfo.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.RazorAssemblyInfo.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.RazorAssemblyInfo.cs
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\scopedcss\bundle\E-Commerce Admin Panel.styles.css
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\scopedcss\projectbundle\E-Commerce Admin Panel.bundle.scp.css
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Admin Panel.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets\msbuild.E-Commerce Admin Panel.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets\msbuild.build.E-Commerce Admin Panel.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Admin Panel.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.E-Commerce Admin Panel.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\refint\E-Commerce Admin Panel.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.pdb
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\E-Commerce Admin Panel.genruntimeconfig.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\E-Commerce Admin Panel\obj\Debug\net8.0\ref\E-Commerce Admin Panel.dll
