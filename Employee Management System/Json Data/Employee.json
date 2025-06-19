@@ -1,0 +1,11 @@
+﻿[
+    {
+        "Id": 1,
+        "FirstName": "Karan",
+        "LastName": "Sonagara",
+        "Email": "kasonaa8987@gmail.com",
+        "PhoneNumber": "5689256235",
+        "IsActive": 1,
+        "DateOfBirth": "14-05-2005"
+    } 
+]
