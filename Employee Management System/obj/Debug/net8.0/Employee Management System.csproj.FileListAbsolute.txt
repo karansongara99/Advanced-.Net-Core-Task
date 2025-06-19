@@ -1,0 +1,38 @@
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\appsettings.Development.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\appsettings.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Json Data\Employee.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Employee Management System.staticwebassets.endpoints.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Employee Management System.exe
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Employee Management System.deps.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Employee Management System.runtimeconfig.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Employee Management System.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Employee Management System.pdb
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.csproj.AssemblyReference.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.AssemblyInfoInputs.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.AssemblyInfo.cs
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.csproj.CoreCompileInputs.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.MvcApplicationPartsAssemblyInfo.cs
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\scopedcss\bundle\Employee Management System.styles.css
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets.build.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets.development.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets\msbuild.Employee Management System.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets\msbuild.Employee Management System.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets\msbuild.build.Employee Management System.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Employee Management System.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Employee Management System.props
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee.861BF793.Up2Date
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\refint\Employee Management System.dll
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.pdb
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\Employee Management System.genruntimeconfig.cache
+D:\Programer\BTech\Sem-5\Advanced .Net Core\Employee Management System\obj\Debug\net8.0\ref\Employee Management System.dll

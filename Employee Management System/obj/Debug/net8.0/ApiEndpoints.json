@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "Employee_Management_System.Controllers.EmployeeAPIController",
+    "Method": "Create",
+    "RelativePath": "api/EmployeeAPI",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employee",
+        "Type": "Employee_Management_System.Models.EmployeeModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
